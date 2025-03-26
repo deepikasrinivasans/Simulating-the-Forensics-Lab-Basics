@@ -1,4 +1,6 @@
-# Simulating the Forensics Lab Basics
+### REGISTER NUMBER : 212222230028
+### NAME : DEEPIKA S
+# LAB-1 Simulating the Forensics Lab Basics
 
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
@@ -64,35 +66,31 @@
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+
+![dfdi1](https://github.com/user-attachments/assets/9f9d15c7-990e-418a-935c-6ca463aeaae6)
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
 
-![](./images/kali1.png)
+![dfdi2](https://github.com/user-attachments/assets/341d9085-24c2-45c1-9ee5-10f1b0465d85)
 
 ---
 
 ### **Autopsy**
-
-![](./images/autopsy.png)
-
+![image](https://github.com/user-attachments/assets/32c14af6-2001-42e3-a880-c5d629bfede0)
+![dfdi3](https://github.com/user-attachments/assets/45ae1f48-b238-49a6-ab68-064d70253029)
 ---
-
 ### **Sleuth Kit**
+![dfdi sleuthkit1](https://github.com/user-attachments/assets/2ce303c5-a9cd-484e-acae-b0b770bc9b89)
+![dfdi sleuth kit2](https://github.com/user-attachments/assets/e6b95c54-4caf-4a1e-b10f-0ddcab5f0330)
 
-![](./images/s1.png)
-
-![](./images/s2.png)
 
 ---
-
 ### **Creation of Virtual Hard Disk**
-
-![](./images/disk.png)
+![dfdi new](https://github.com/user-attachments/assets/29fa9e3f-8939-4b8a-9b28-46e61d061b59)
+![dfdi new1](https://github.com/user-attachments/assets/a184bd7e-8fa6-4001-9f68-c79c86819c07)
 
 ---
 
